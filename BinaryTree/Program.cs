@@ -60,6 +60,7 @@ namespace BinaryTree
             tree.Add(5);
             tree.Add(3);
             tree.Add(9);
+            tree.Add(12);
             Console.WriteLine("Tree Build");
         }
     }
