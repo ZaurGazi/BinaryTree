@@ -59,7 +59,7 @@ namespace BinaryTree
             tree.Add(1);
             tree.Add(5);
             tree.Add(3);
-            tree.Add(8);
+            tree.Add(9);
             Console.WriteLine("Tree Build");
         }
     }
